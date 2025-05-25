@@ -1,0 +1,1 @@
+# Dockerfile - Alkalmazás buildeléséhez
